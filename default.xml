@@ -8,7 +8,7 @@
   <remote fetch="https://github.com/webplatformforembedded" name="webplatformforembedded"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/agherzan" name="rpi"/>
-  <remote fetch="https://github.com/mirzak" name="mirzak"/>
+  <remote fetch="https://github.com/gil0109 name="gil0109"/>
   
 
   <project remote="yocto" revision="rocko" name="poky" path="layers/poky"/>
@@ -16,6 +16,6 @@
   <project remote="oe" revision="rocko" name="meta-openembedded" path="layers/meta-openembedded"/>
   <project remote="rpi" revision="rocko" name="meta-raspberrypi" path="layers/meta-raspberrypi"/>
   <project remote="mender" revision="rocko" name="meta-mender" path="layers/meta-mender"/>
-  <project remote="mirzak" revision="rocko" name="mender-raspberrypi-conf" path="rpi-templates"/>
+  <project remote="gil0109" revision="rocko" name="mender-raspberrypi-conf" path="rpi-templates"/>
 
 </manifest>
