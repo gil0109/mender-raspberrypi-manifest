@@ -12,7 +12,7 @@
   
 
   <project remote="yocto" revision="rocko" name="poky" path="layers/poky"/>
-  <project remote="webplatformforembedded" revision="rocko" name="meta-wpe" path="layersmeta-wpe"/>
+  <project remote="webplatformforembedded" revision="rocko" name="meta-wpe" path="layers/meta-wpe"/>
   <project remote="oe" revision="rocko" name="meta-openembedded" path="layers/meta-openembedded"/>
   <project remote="rpi" revision="rocko" name="meta-raspberrypi" path="layers/meta-raspberrypi"/>
   <project remote="mender" revision="rocko" name="meta-mender" path="layers/meta-mender"/>
